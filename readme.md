@@ -3,7 +3,7 @@
 
 
 I'm an industrial clerk with experience in the sales management/department, that is learning the basics of web development to work in an IT environment in the future.
-------------------------------
+
 About me: 
 
 ![Steffen](https://media.licdn.com/dms/image/C4D03AQEwnSPHx9Gevw/profile-displayphoto-shrink_200_200/0/1621514431458?e=1704931200&v=beta&t=KLnjE7UDrxpH9bdTKP-Zl4qzyqU8bKEYeDLvsqelIDg)
