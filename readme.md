@@ -1,5 +1,4 @@
 # Hello, nice to meet you!
-![Hi](https://media0.giphy.com/media/OSY8dWYtoVyYFJp4FR/200.webp?cid=ecf05e47i6ouccagtf8vfloqepzxtv7cmco2az3h47ho47ul&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 
 I'm an industrial clerk with experience in the sales management/department, that is learning the basics of web development to work in an IT environment in the future.
